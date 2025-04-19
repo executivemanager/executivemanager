@@ -15,9 +15,9 @@
 <p align="center">⠀axel <i>or</i> es ⠀<br>⠀ it/itself ⏰ 26⠀</p>
 
 ###
-
+<div align="center">
 i can be awkward at times but i'm open to chat otherwise<i>!</i>
-
+</div>
 <h1 align="left"></h1>
 
 ###
