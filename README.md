@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.postimg.cc/zfnn0nws/S20-1-removebg-preview.png]()"  />
+  <img height="200" src="https://i.postimg.cc/zfnn0nws/S20-1-removebg-preview.png"  />
 </div>
 
 ###
