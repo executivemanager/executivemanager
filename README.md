@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=executivemanager.executivemanager&right_color=red&left_text=FIND%20YOUR%20STAR"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=executivemanager.executivemanager&right_color=darkred&left_text=FIND%20YOUR%20STAR"  />
 </div>
 
 ###
