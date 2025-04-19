@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=executivemanager.executivemanager&right_color=red&left_text=FIND%20YOUR%20STAR"  />
+</div>
 
-<!--
-**executivemanager/executivemanager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="center">**⟡**⠀axel   *or*   ⠀es ⠀<br>⠀ it /itself⠀ ⏰ ⠀26⠀</p>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h1 align="left"></h1>
+
+###
