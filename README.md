@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">**⟡**⠀axel   *or*   ⠀es ⠀<br>⠀ it /itself⠀ ⏰ ⠀26⠀</p>
+<p align="center"><b>⟡</b>⠀axel   <i>or</i>   ⠀es ⠀<br>⠀ it /itself⠀ ⏰ ⠀26⠀</p>
 
 ###
 
