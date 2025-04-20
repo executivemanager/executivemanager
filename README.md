@@ -16,7 +16,8 @@
 
 ###
 <div align="center">
-i can be awkward at times but i'm open to chat otherwise<i>!</i>
+i can be awkward at times but i'm open to chat otherwise<i>!</i><br/>
+  if you he/him dante dni <br/>
 </div>
 <h1 align="left"></h1>
 
