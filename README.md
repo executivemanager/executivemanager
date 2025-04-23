@@ -16,8 +16,9 @@
 
 ###
 <div align="center">
-i can be awkward at times but i'm open to chat otherwise<i>!</i><br/>
-  if you he/him dante dni <br/>
+i can be awkward at times but i'm open to chat otherwise<i>!</i><br/><br/>
+  if you he/him dante dni <br/><br/>
+  usually at docks,  in front of caves,  or spawn!
 </div>
 <h1 align="left"></h1>
 
